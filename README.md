@@ -1,4 +1,8 @@
 ## 👋Hi, I'm Aleksey
+<p>I’m a programmer with experience in Python, HTML, CSS, Java, and SQL, and currently<br>
+finishing up my second year at STCC. I enjoy building diverse projects that showcase my skills<br>
+across multiple technologies and continuously strive to improve and expand my knowledge.<br>
+</p>
 
 <h2>📎Python Projects</h2>
 
@@ -7,11 +11,11 @@
 - [Password Validator](google.com)
 - [Numerology Numbers](google.com)
 
-<h2>🖇️YEAOther Projects</h2>
+<h2>🖇️Other Projects</h2>
 
 -
 
-<h2>🗂️Languages</h2>
+<h2>🗂️Languages And Tools</h2>
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="htlm5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
