@@ -6,7 +6,7 @@ across multiple technologies and continuously strive to improve and expand my kn
 
 <h2>📎Python Projects</h2>
 
-- [Real Estate List Analyzer]([rela](https://github.com/alekseykatal/pythonstcc))
+- [Real Estate List Analyzer](https://github.com/alekseykatal/pythonstcc)
 - [WhatsApp Chat Word Counter](google.com)
 - [Password Validator](google.com)
 - [Numerology Numbers](google.com)
