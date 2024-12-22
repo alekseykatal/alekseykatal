@@ -13,7 +13,7 @@ across multiple technologies and continuously strive to improve and expand my kn
 
 <h2>🖇️Other Projects</h2>
 
--
+- #############
 
 <h2>🗂️Languages And Tools</h2>
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
