@@ -9,6 +9,7 @@ across multiple technologies and continuously strive to improve and expand my kn
 - [Real Estate List Analyzer](https://github.com/alekseykatal/pythonstcc)
 - [Password Validator](https://github.com/alekseykatal/Password-Validator)
 - [Numerology Numbers](https://github.com/alekseykatal/numerologycalculator)
+- [SQL Database with Python] (https://github.com/alekseykatal/SQLDatabasewithPython)
 
 <h2>🖇️Other Projects</h2>
 
