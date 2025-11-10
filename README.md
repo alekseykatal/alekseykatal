@@ -1,7 +1,5 @@
 ## 👋Hi, I'm Aleksey
-<p>I’m a programmer with experience in Python, HTML, CSS, Java, and SQL, and currently<br>
-finishing up my second year at STCC. I enjoy building diverse projects that showcase my skills<br>
-across multiple technologies and continuously strive to improve and expand my knowledge.<br>
+<p>I’m a programmer with experience in C#, Python, HTML, CSS, Java, and SQL.<br>
 </p>
 
 <h2>📎Python Projects</h2>
