@@ -1,5 +1,5 @@
 ## 👋Hi, I'm Aleksey
-<p>I’m a programmer with experience in C#, Python, HTML, CSS, Java, and SQL.<br>
+<p>I’m a student programmer with experience in C#, Python, HTML, CSS, Java, and SQL.<br>
 </p>
 
 <h2>📎Python Projects</h2>
