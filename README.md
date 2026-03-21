@@ -3,7 +3,8 @@
 </p>
 
 <h2>📎C# Projects</h2>
-- [Sales Ledger with Database](https://github.com/alekseykatal/SalesLedger).
+
+- [Sales Ledger with Database](https://github.com/alekseykatal/SalesLedger)
 
 <h2>📎Python Projects</h2>
 
