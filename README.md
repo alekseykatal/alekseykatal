@@ -13,6 +13,12 @@
 - [Numerology Numbers](https://github.com/alekseykatal/numerologycalculator)
 - [SQL Database with Python](https://github.com/alekseykatal/SQLDatabasewithPython)
 
+<h2>📎Java Projects</h2>
+
+- [GDX Game]()
+- [Simple Tamagashi Pet]()
+- [Atm Simulator]()
+
 <h2>🖇️Other Projects</h2>
 
 - #############
