@@ -15,7 +15,7 @@
 
 <h2>📎Java Projects</h2>
 
-- [GDX Game]()
+- [GDX Game](https://github.com/alekseykatal/MyGame)
 - [Simple Tamagashi Pet]()
 - [Atm Simulator]()
 
